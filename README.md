@@ -1,17 +1,11 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Vasco and I'm a CS student from Peru</h2>
 
 ###
 
-<br clear="both">
-
-- 🔭 I’m currently working on [a Chat App](https://github.com/theocsav/chat_app)
-- 🌱 I’m currently learning **DSA**</p>
+<p align="left">- 🔭 I’m currently working on [a Chat App](https://github.com/theocsav/chat_app)<br><br>- 🌱 I’m currently learning **Data Structures and Algorithms**</p>
 
 ###
 
-<br clear="both">
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,6 +26,7 @@
 </div>
 
 ###
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:vasco.hinostroza@ufl.edu" target="_blank">
@@ -43,8 +38,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/theocsav/theocsav/output/snake.svg" alt="Snake animation" />
 
