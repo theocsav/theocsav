@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [a Chat App](https://github.com/theocsav/chat_app)<br><br>- 🌱 I’m currently learning **Data Structures and Algorithms**</p>
+- 🔭 I’m currently working on [a Chat App](https://github.com/theocsav/chat_app)
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 ###
 
