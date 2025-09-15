@@ -2,11 +2,6 @@
 
 ###
 
-- 🔭 I’m currently working on [a Chat App](https://github.com/theocsav/chat_app)
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
