@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vasco Hinostroza and I'm a CS student from Peru</h2>
+<h2 align="left">Hi 👋! My name is Vasco Hinostroza and I'm a CS student and ML researcher</h2>
 
 ###
 
