@@ -94,17 +94,6 @@ Local-first AI assistant for Windows that maintains context across your computer
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=theocsav&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Vasco Hinostroza GitHub Stats"
-  />
-</p>
-
----
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/vasco-hinostroza/) •
